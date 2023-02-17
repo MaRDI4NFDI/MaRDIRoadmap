@@ -10,7 +10,4 @@ You can vote for a particular issues by clicking on that issue and adding a "Thu
 
 You can find the "Add readtion" button here: 
 
-![](images/add_reaction.jpg)
-
-
-<img src="https://github.com/MaRDI4NFDI/MaRDIRoadmap/blob/main/images/add_reaction.jpg" width="200" />
+<img src="https://github.com/MaRDI4NFDI/MaRDIRoadmap/blob/main/images/add_reaction.jpg" width="600" />
