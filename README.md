@@ -12,4 +12,5 @@ You can find the "Add readtion" button here:
 
 ![](images/add_reaction.jpg)
 
-![](images/add_reaction.jpg | width=100)
+
+<img src="https://github.com/MaRDI4NFDI/MaRDIRoadmap/blob/main/images/add_reaction.jpg" width="200" />
