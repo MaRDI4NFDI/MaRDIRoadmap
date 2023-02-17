@@ -10,4 +10,6 @@ You can vote for a particular issues by clicking on that issue and adding a "Thu
 
 You can find the "Add readtion" button here: 
 
-![My Image](images/add_reaction.jpg)
+![](images/add_reaction.jpg)
+
+![](images/add_reaction.jpg | width=100)
